@@ -1,5 +1,10 @@
-...
-"livereveal": {
-        "autolaunch": true
-        }
-...
+name: rise-environment
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - pandas
+  - bokeh
+  - rise
