@@ -1,0 +1,8 @@
+install.packages("tidyverse")
+install.packages("knitr")
+install.packages("dplyr")
+install.packages("ggplot2")
+install.packages("purrr")
+install.packages("tidyr")
+install.packages("readr")
+install.packages("tibble")
